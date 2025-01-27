@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.7.4](https://github.com/AstroNvim/astrotheme/compare/v4.7.3...v4.7.4) (2025-01-27)
+
+
+### Bug Fixes
+
+* **extras:** fix fallback for fzf theme generation ([a63a4fe](https://github.com/AstroNvim/astrotheme/commit/a63a4fe1fefb86d1b99f9b205055318091740c98))
+
 ## [4.7.3](https://github.com/AstroNvim/astrotheme/compare/v4.7.2...v4.7.3) (2024-12-24)
 
 
